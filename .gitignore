@@ -1,0 +1,2 @@
+# ignore generated PRAW ini files,
+*.ini
